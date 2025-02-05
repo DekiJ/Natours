@@ -1,3 +1,2 @@
 # Natours
-Landing page for a tourist agency
-Developed using HTML, CSS and Sass 
+Landing page for a tourist agency, developed using HTML, CSS and Sass 
